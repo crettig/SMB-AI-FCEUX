@@ -11,6 +11,9 @@ reset.
 for every frame that Mario was not in a normal state. This way
 a genome can be encouraged to move onto the next level.
 
+Got the Ram values from
+https://datacrystal.romhacking.net/wiki/Super_Mario_Bros.:RAM_map
+
 Also Took the port of FCEUX for Sethbling over Bizhawk as I found FCEUX to be much faster
 https://github.com/juvester/mari-o-fceux <--- see here for original code
 
