@@ -30,7 +30,7 @@ https://en.wikipedia.org/wiki/Evolutionary_algorithm
 
 https://en.wikipedia.org/wiki/Artificial_neural_network
 
-BizHawk Emulator: http://tasvideos.org/BizHawk.html
+FCEUX Emulator: http://www.fceux.com/web/home.html
 
 SethBling Twitter: http://twitter.com/sethbling
 
